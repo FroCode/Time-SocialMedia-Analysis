@@ -19,6 +19,8 @@ This Power BI project explores internet usage patterns, revealing insights on us
 - **Power BI**: For creating interactive dashboards and visualizations.
 - **SQL**: For data manipulation and preparation.
 - **Power Query**: Utilized for data preparation and transformation, enabling efficient analysis.
+- **DataGrip**
+- **DAX**
 ## Data Source
 
 Csv DataSets
