@@ -25,7 +25,7 @@ Csv DataSets
 
 ## How to Use
 
-1. **Viewing the Dashboard**: Visit the [https://frocode.github.io/Time-SocialMedia-Analysis/](link-to-live-preview) of the dashboard on GitHub.
+1. **Viewing the Dashboard**: Visit the [https://frocode.github.io/Time-SocialMedia-Analysis/] of the dashboard on GitHub.
 2. **Interacting with the Dashboard**
 3. **Downloading the Dashboard**: For a local copy, download the `SocialMedia.pbix` file from this repository and open it with Power BI Desktop.
 4. **PDF Report**
