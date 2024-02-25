@@ -1,5 +1,6 @@
 # Social Media Analysis 
-
+![image](https://github.com/FroCode/Drinks-Analyst/assets/43009141/11805d18-9e02-4fa9-95d1-4d3f67cfb181)
+![image](https://github.com/FroCode/Drinks-Analyst/assets/43009141/11805d18-9e02-4fa9-95d1-4d3f67cfb181)
 ## Overview
 
 This Power BI project explores internet usage patterns, revealing insights on user demographics, platform preferences, and content interests. It aims to inform targeted digital strategies.
