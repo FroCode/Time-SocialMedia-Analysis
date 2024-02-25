@@ -12,7 +12,7 @@ This Power BI project explores internet usage patterns, revealing insights on us
 - **Gender Analysis**: Differences in internet usage and platform preferences by gender.
 - **Platform Usage**: Popular platforms among different demographics and professions.
 - **Interest Patterns**: Correlation between users' interests and their demographic or professional backgrounds.
-- (Continue listing other features or insights covered in your dashboard.)
+- **live HTML preview**
 
 ## Technologies Used
 
